@@ -1,0 +1,8 @@
+{
+  "name": "MapShare Live",
+  "description": "A real-time location sharing app where users can share their positions and admins can view everyone on a map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
